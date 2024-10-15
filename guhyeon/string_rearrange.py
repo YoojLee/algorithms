@@ -11,7 +11,6 @@ def solution(N):
     return alpha+str(numeric)
 
 
-
 if __name__ == "__main__":
     N = input()
     print(solution(N))
